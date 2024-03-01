@@ -1,0 +1,172 @@
+
+.navBar{
+    padding-top: 10px;
+    display: flex;
+    justify-content: space-between;
+
+}
+.navTool{
+    width: 20%;
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.logo{
+    height: 30px;
+}
+.signUp{
+    color: whitesmoke;
+    background-color: #3a3d50;
+    border-radius: 50px;
+    width: 150px;
+    
+}
+.signUp:hover{
+    cursor: pointer;
+    color: whitesmoke;
+    background-color: rgb(111, 105, 105);
+    border-radius: 25%;
+  
+}
+.UspContainer{
+    background-image: url(https://filesblog.technavio.org/wp-content/uploads/2018/12/Online-House-Rental-Sites.jpg);
+    background-size: cover;
+    
+    width: 100%;
+    padding-bottom: 200px;
+    padding-top: 100px;
+    margin-top: 10%;
+}
+.Headline1{
+color: #ffffff;
+text-align: center;
+
+
+}
+
+.Headline2{
+color: #FFFFFF;
+
+text-align: center;
+
+
+}
+.SupHeadline{
+    color: #FFFFFF;
+    text-align: center;
+  
+}
+.Headline3{
+    color: #FFFFFF;
+    text-align: center;
+    
+}
+
+.EmailContainer{
+position: relative;
+text-align: center;
+}
+.Email{
+
+width: 350px;
+padding: 10px 10px 10px 20px;
+border-radius: 50px;
+border: 0;
+}
+.emailButton{
+color: #fefefe;
+background-color: #CE011F;
+border-radius: 50px;
+padding: 5px;
+position: absolute;
+left: 56%;
+bottom:13%;
+border: 0;
+}
+
+.Benefits{
+margin: 50px 10px;
+display: flex;
+justify-content: space-between;
+position: relative;
+text-align: center;
+
+}
+
+.heroImg{
+  height: 500px;
+  border-radius: 50%;
+  
+}
+.ReStatment{
+    margin-right: 30px;
+   position: absolute;
+    top: 150px;
+   left: 750px ; 
+}
+
+.Benefits2{
+    margin: 50px 10px;
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+    text-align: center;
+
+}
+.Reviews{
+   position: absolute;
+   
+   right: 95em;
+   top: 600px;
+  
+    
+    
+}
+.RevHeader{
+
+}
+.reStars{
+    display: flex;
+    
+}
+.NamDate{
+  position: absolute;
+  top: 120px;
+  text-align: center;
+  width: 100%;
+}
+.txtReview{
+position: absolute;
+right: 70em;
+top: 750px;
+
+}
+
+.EmailContainer2{
+    /* border: solid red;
+    position: relative;
+    text-align: center;
+    background-image: url(https://dims.web.production.kw-prod.brightspot.cloud/dims4/default/c6d4c47/2147483647/strip/true/crop/3840x1440+0+80/resize/2880x1080!/format/webp/quality/90/?url=https%3A%2F%2Fstatic.kw.com%2F5f%2F73%2F1f1133004e46be154b3b1c42bab2%2Fcoffeeladyleft.jpg);
+    } */
+.Email2{
+    position: absolute;
+    width: 350px;
+    padding: 10px 10px 10px 20px;
+    border-radius: 50px;
+    border: 0;
+    right: 45em;
+    top: 75em;
+    border: 0;
+   }
+ .emailButton2{
+    color: #fefefe;
+    background-color: #CE011F;
+    border-radius: 50px;
+    padding: 5px;
+    width: 100px;
+    position: absolute;
+    right: 46em;
+    top: 75.5em;
+    border: 0;
+    }
